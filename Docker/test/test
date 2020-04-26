@@ -3,8 +3,3 @@ This is test file.
 What Is Helm?
 
 Helm is a package manager for Kubernetes. 
-
-When you have to deal with a lot of packages you need a package manager. In the system world, you can use APT to install Debian binaries or applications or YUM to install RPM packages. If you are a Java developer, you use Maven to build and deploy your artifacts. As a JavaScript developer, you use npm to install your Node modules or pip if you develop in Python. 
-
-
-Updated the changes.
